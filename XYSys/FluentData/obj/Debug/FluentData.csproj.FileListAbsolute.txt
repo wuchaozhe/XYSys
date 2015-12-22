@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\fluentdata-39108\Source\v4\FluentData\bin\Debug\FluentData.dll
+C:\Users\Administrator\Desktop\fluentdata-39108\Source\v4\FluentData\bin\Debug\FluentData.pdb
+C:\Users\Administrator\Desktop\fluentdata-39108\Source\v4\FluentData\obj\Debug\FluentData.dll
+C:\Users\Administrator\Desktop\fluentdata-39108\Source\v4\FluentData\obj\Debug\FluentData.pdb
+D:\XYSys\XYSys\FluentData\bin\Debug\FluentData.dll
+D:\XYSys\XYSys\FluentData\bin\Debug\FluentData.pdb
+D:\XYSys\XYSys\FluentData\obj\Debug\FluentData.dll
+D:\XYSys\XYSys\FluentData\obj\Debug\FluentData.pdb
+D:\XYSys\XYSys\FluentData\obj\Debug\FluentData.csprojResolveAssemblyReference.cache
