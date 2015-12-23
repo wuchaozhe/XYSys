@@ -3,3 +3,7 @@ D:\XYSys\XYSys\XYSys.Service\bin\Debug\XYSys.Service.pdb
 D:\XYSys\XYSys\XYSys.Service\obj\Debug\XYSys.Service.dll
 D:\XYSys\XYSys\XYSys.Service\obj\Debug\XYSys.Service.pdb
 D:\XYSys\XYSys\XYSys.Service\obj\Debug\XYSys.Service.csprojResolveAssemblyReference.cache
+D:\XYSys\XYSys\XYSys.Service\bin\Debug\FluentData.dll
+D:\XYSys\XYSys\XYSys.Service\bin\Debug\FluentData.pdb
+D:\XYSys\XYSys\XYSys.Service\bin\Debug\XYFramework.Utils.dll
+D:\XYSys\XYSys\XYSys.Service\bin\Debug\XYFramework.Utils.pdb

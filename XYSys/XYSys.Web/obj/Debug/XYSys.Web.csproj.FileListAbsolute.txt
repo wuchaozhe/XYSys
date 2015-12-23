@@ -39,4 +39,10 @@ D:\XYSys\XYSys\XYSys.Web\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dl
 D:\XYSys\XYSys\XYSys.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\XYSys\XYSys\XYSys.Web\obj\Debug\XYSys.Web.dll
 D:\XYSys\XYSys\XYSys.Web\obj\Debug\XYSys.Web.pdb
+D:\XYSys\XYSys\XYSys.Web\bin\XYSys.Service.dll
+D:\XYSys\XYSys\XYSys.Web\bin\FluentData.dll
+D:\XYSys\XYSys\XYSys.Web\bin\XYFramework.Utils.dll
+D:\XYSys\XYSys\XYSys.Web\bin\XYSys.Service.pdb
+D:\XYSys\XYSys\XYSys.Web\bin\FluentData.pdb
+D:\XYSys\XYSys\XYSys.Web\bin\XYFramework.Utils.pdb
 D:\XYSys\XYSys\XYSys.Web\obj\Debug\XYSys.Web.csprojResolveAssemblyReference.cache

@@ -21,13 +21,13 @@ namespace XYSys.Web.XYCommon
 
         protected override void HandleUnauthorizedRequest(AuthorizationContext filterContext)
         {
-            var area = filterContext.Controller.ControllerContext.RouteData.DataTokens["area"];
-            var rawUrl = filterContext.HttpContext.Request.RawUrl;
-            if (area == "Admin") 
-            {
-                filterContext.Result = new RedirectToRouteResult(new System.Web.Routing.RouteValueDictionary(new { area = "Admin", controller = "Home", action = "Login", ReturnUrl = rawUrl }));
-                return;
-            }
+            //var area = filterContext.Controller.ControllerContext.RouteData.DataTokens["area"];
+            //var rawUrl = filterContext.HttpContext.Request.RawUrl;
+            //if (area == "Admin") 
+            //{
+            //    filterContext.Result = new RedirectToRouteResult(new System.Web.Routing.RouteValueDictionary(new { area = "Admin", controller = "Home", action = "Login", ReturnUrl = rawUrl }));
+            //    return;
+            //}
             base.HandleUnauthorizedRequest(filterContext);
         }
     }

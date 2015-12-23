@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace XYSys.Web.Areas.Admin.Controllers
 {
+    [XYCommon.XYAuthorize]
     public class HomeController : Controller
     {
         //

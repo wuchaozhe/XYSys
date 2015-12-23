@@ -1,0 +1,5 @@
+D:\XYSys\XYSys\XYFramework.Utils\bin\Debug\XYFramework.Utils.dll
+D:\XYSys\XYSys\XYFramework.Utils\bin\Debug\XYFramework.Utils.pdb
+D:\XYSys\XYSys\XYFramework.Utils\obj\Debug\XYFramework.Utils.dll
+D:\XYSys\XYSys\XYFramework.Utils\obj\Debug\XYFramework.Utils.pdb
+D:\XYSys\XYSys\XYFramework.Utils\obj\Debug\XYFramework.Utils.csprojResolveAssemblyReference.cache

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYSys.Service", "XYSys.Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentData", "FluentData\FluentData.csproj", "{B5AE821B-7728-49B3-9119-3BBC4C8E58E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYFramework.Utils", "XYFramework.Utils\XYFramework.Utils.csproj", "{12E56A81-2D21-48B3-957F-2F3DA30B34C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,15 @@ Global
 		{B5AE821B-7728-49B3-9119-3BBC4C8E58E9}.Test|Any CPU.Build.0 = Test|Any CPU
 		{B5AE821B-7728-49B3-9119-3BBC4C8E58E9}.Test|x64.ActiveCfg = Test|x64
 		{B5AE821B-7728-49B3-9119-3BBC4C8E58E9}.Test|x64.Build.0 = Test|x64
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Test|Any CPU.Build.0 = Release|Any CPU
+		{12E56A81-2D21-48B3-957F-2F3DA30B34C3}.Test|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
